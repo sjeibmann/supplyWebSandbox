@@ -1,0 +1,45 @@
+.floatLeft{
+	float: left;
+	margin: none;
+	padding: none;
+}
+
+.hoverSwapGreg{
+	width: 325px;
+	height: 865px;
+	background-image: url("../img/hoverSwap/workingDesk1.jpg"); 
+}
+
+.hoverSwapMatthew{
+	width: 325px;
+	height: 865px;
+	background-image: url("../img/hoverSwap/workingDesk2.jpg"); 
+}
+
+.hoverSwapTed{
+	width: 325px;
+	height: 865px;
+	background-image: url("../img/hoverSwap/workingDesk3.jpg"); 
+}
+
+.hoverSwapSam{
+	width: 325px;
+	height: 865px;
+	background-image: url("../img/hoverSwap/workingDesk4.jpg"); 
+}
+
+.hoverSwapGreg:hover {
+	background-image: url("../img/hoverSwap/portrait-greg.jpg");
+}
+
+.hoverSwapMatthew:hover{
+	background-image: url("../img/hoverSwap/portrait-matthew.jpg");
+}
+
+.hoverSwapTed:hover{
+	background-image: url("../img/hoverSwap/portrait-ted.jpg");
+}
+
+.hoverSwapSam:hover{
+	background-image: url("../img/hoverSwap/portrait-sam.jpg");
+}
